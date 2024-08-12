@@ -14,7 +14,7 @@
         "email": "davidhsianturi@gmail.com"
     }],
     "require": {
-        "php": "^7.3|^8.0|^9.0"
+        "php": "^7.3|^8.0|^9.0|^10.0|^11.0"
     },
     "require-dev": {},
     "autoload": {
